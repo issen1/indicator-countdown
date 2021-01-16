@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name = Countdown Indicator
+GenericName = Countdown Indicator
+Comment = Countdown Indicator, never miss an event again.
+Exec = /opt/jh-indicator-countdown/countdown.py
+Icon = /opt/jh-indicator-countdown/icons/indicator-countdown.png
+Type = Application
+Terminal = false
+StartupNotify = true
+Encoding = utf-8
+Categories = Utility;

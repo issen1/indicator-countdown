@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec = /opt/jh-indicator-countdown/countdown.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name = Countdown Indicator
+Comment = Countdown Indicator, never miss an event again.
+X-GNOME-Autostart-Delay=2
